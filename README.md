@@ -11,3 +11,4 @@ https://www.digitalocean.com/community/tutorials/a-guide-to-time-series-forecast
 
 One package I found useful was: "Prophet". It reminds me of the Book of Isaiah, where we read about exact details of Jesus Christ's death and crucifixion offered to save humanity (Isaiah 53). In a way, the prophet package can be cool, because it is short depiction of how Christ's blood is sufficient to pay for an infinite debt of sin and Hell, and offer eternal "spiritual" savings. Likewise, prophet can help in reducing costs to various fields that may lead to debt inside the City of Davis or even suboptimal stewardship of resources.
 
+https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjLobHjoeHmAhVEjK0KHejmATkQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.adaptiveinsights.com%2Fsolutions%2Fuse-case%2Ffinancial-forecasting&psig=AOvVaw138LH6kAJLwfKG-YD8OSWx&ust=1577929004669775
